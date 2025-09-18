@@ -1,6 +1,5 @@
-import { json } from "express";
 import { createLogger,format,transports } from "winston";
-const { combine, timestamp, printf, colorize } = format;
+const { combine, timestamp, printf, colorize,json } = format;
 
 // Define custom log format
 const consoleLogFormat = format.combine(

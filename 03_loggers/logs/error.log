@@ -1,0 +1,8 @@
+{"level":"info","message":"{\"method\":\"GET\",\"url\":\"/\",\"status\":\"404\",\"responseTime\":\"5.794\"}","timestamp":"2025-09-18T17:17:22.352Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"0.901\"}","timestamp":"2025-09-18T17:18:43.532Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"0.482\"}","timestamp":"2025-09-18T17:18:45.305Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"0.744\"}","timestamp":"2025-09-18T17:18:46.742Z"}
+{"level":"info","message":"Creating a new tea using POST","timestamp":"2025-09-18T17:20:01.095Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"15.520\"}","timestamp":"2025-09-18T17:20:01.114Z"}
+{"level":"info","message":"Creating a new tea using POST","timestamp":"2025-09-18T17:20:02.324Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"1.788\"}","timestamp":"2025-09-18T17:20:02.326Z"}
